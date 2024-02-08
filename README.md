@@ -1,8 +1,8 @@
 ### Hello, Jeffrey here.
-Welcome to my README.
-About me:
-I’m currently working on ... getting my first job in tech
-I’m currently learning ... Javascript, Typescript
+### Welcome to my README.
+### About me:
+### I’m currently working on ... getting my first job in tech
+### I’m currently learning ... Javascript, Typescript
 
 
 <!--
