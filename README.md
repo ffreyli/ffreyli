@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, Jeffrey here.
+Welcome to my README.
+About me:
+I’m currently working on ... getting my first job in tech
+I’m currently learning ... Javascript, Typescript
+
 
 <!--
 **ffreyli/ffreyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
