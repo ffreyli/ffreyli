@@ -2,7 +2,7 @@
 ### Welcome to my README.
 ### About me:
 ### I’m currently working on ... getting my first job in tech, grinding Leetcode
-### I’m currently learning ... Javascript, Typescript
+### I’m currently learning ... Typescript
 
 
 <!--
