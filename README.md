@@ -1,8 +1,8 @@
 ### Hello, Jeffrey here.
 ### Welcome to my README.
 ### About me:
-### I’m currently working on ... getting my first job in tech, grinding Leetcode
-### I’m currently learning ... Typescript
+### I’m currently working on ... getting my first job in tech, grinding Leetcode, deploying my projects, and creating my portfolio webiste
+### I’m currently learning ... Typescript, how to use Docker
 
 
 <!--
