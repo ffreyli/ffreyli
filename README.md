@@ -1,8 +1,8 @@
 ### Hello, Jeffrey here.
 ### Welcome to my README.
 ### About me:
-### I’m currently working on ... getting my first job in tech, grinding Leetcode, deploying my projects, and creating my portfolio webiste
-### I’m currently learning ... Typescript, how to use Docker
+### I’m currently working on ... Computer Science Certificate that bridges into MS in Computer Science from Seattle University, solving LeetCode problems, creating and deploying fun, meaningful, and useful projects, and creating my portfolio website
+### I’m currently learning 🌱 ... Typescript, Docker, C++ and C#, game design
 
 
 <!--
@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
