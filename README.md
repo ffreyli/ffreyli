@@ -1,7 +1,9 @@
 ### Hello, Jeffrey here.
 ### Welcome to my README.
 ### About me:
-### I’m currently working on ... Computer Science Certificate that bridges into MS in Computer Science from Seattle University, solving LeetCode problems, creating and deploying fun, meaningful, and useful projects, and creating my portfolio website
+### I’m currently working on ... 
+  Passionate about using technology to find solutions to problems, and ways to make life easier and/or better.
+  Computer Science Fundamentals Certificate -> Master's Degree at Seattle University
 ### I’m currently learning 🌱 ... Typescript, Docker, C++ and C#, game design
 
 
