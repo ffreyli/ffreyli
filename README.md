@@ -2,15 +2,14 @@
 ### Welcome to my README.
 ### About me:
   Full stack developer and graduate student of Computer Science at Seattle University. I'm passionate about using technology to build solutions to real-world problems that have a positive impact on people, especially through utility, convenience, and/or entertainment. 
-  Personal interests: Video games, board sports
+  Personal interests: video games
 ### I’m currently working on ... 
-  Computer Science Fundamentals Certificate -> Master's Degree at Seattle University
-  Currently enrolled in: Fundamentals of Software Engineering
-  
+  Computer Science Fundamentals Certificate -> Master's Degree in Computer Science at Seattle University
+  Portfolio site for my projects
 ### I’m currently learning 🌱 ... 
   Typescript as a Javascript programmer
   C++ and C#
-  Agile Methodology in a team working on a product
+  
   
 
 
