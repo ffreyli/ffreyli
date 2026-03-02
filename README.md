@@ -4,7 +4,7 @@
   Full stack developer and graduate student of Computer Science at Seattle University. I'm passionate about using technology to build solutions to real-world problems that have a positive impact on people, especially through utility, convenience, and/or entertainment. 
   Personal interests: video games
 ### I’m currently working on ... 
-  Computer Science Fundamentals Certificate -> Master's Degree in Computer Science at Seattle University
+  Master's Degree in Computer Science at Seattle University
   Portfolio site for my projects
 ### I’m currently learning 🌱 ... 
   Typescript as a Javascript programmer
