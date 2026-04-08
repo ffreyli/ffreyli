@@ -1,15 +1,13 @@
 ### Hello, Jeffrey here.
 ### Welcome to my README.
 ### About me:
-  Full stack developer and graduate student of Computer Science at Seattle University. I'm passionate about using technology to build solutions to real-world problems that have a positive impact on people, especially through utility, convenience, and/or entertainment. 
-  Personal interests: video games
+  Full stack developer and graduate student of Computer Science at Seattle University. Life is learning. Passionate about work that positively impacts peoples' lives.
 ### I’m currently working on ... 
-  Master's Degree in Computer Science at Seattle University
-  Portfolio site for my projects
-### I’m currently learning 🌱 ... 
-  Typescript as a Javascript programmer
-  C++ and C#
+  Master's Degree in Computer Science at Seattle University (December 2026)
   
+### I’m currently learning 🌱 ... 
+  AI models
+  Computer graphics
   
 
 
