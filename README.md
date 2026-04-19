@@ -1,7 +1,7 @@
 ### Hello, Jeffrey here.
-### Welcome to my README.
+
 ### About me:
-  Full stack developer and graduate student of Computer Science at Seattle University. Life is learning. Passionate about work that positively impacts peoples' lives.
+  Full stack developer and graduate student of Computer Science at Seattle University. Life is learning
 ### I’m currently working on ... 
   Master's Degree in Computer Science at Seattle University (December 2026)
   
